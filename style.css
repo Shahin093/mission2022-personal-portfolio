@@ -1,0 +1,163 @@
+body{
+    font-family: 'Barlow', sans-serif;
+font-family: 'Poppins', sans-serif;
+
+}
+.section1{
+    margin: 120px;
+    display: flex;
+    width: 90%;
+    
+}
+
+img{
+    width: 77%;
+}
+.border-add{
+    border-left: 4px solid tomato;
+    height: 80px;
+    width: 0px;
+    margin-top: 44px;
+    padding-right: 5px;
+    border-radius: 20%;
+}
+.heading-content{
+    
+    margin-right: 90px;
+    
+}
+
+#different-color{
+    color: rgb(233, 126, 25);
+}
+h2{
+    font-size: 35px;
+    font-weight: 35px;
+    font-weight: 900;
+    
+}
+.sort-border{
+
+    border-left: 3px solid orangered;
+}
+.btn{
+    background-color: rgb(243, 99, 74);
+    color: rgb(233, 231, 229);
+    text-decoration: none;
+    padding: 7px 30px;
+    font-size: 20px;
+    border-radius: 10px;
+
+}
+.card-info{
+    width: 90%;
+    margin: 100px;
+}
+.card-items{
+    display: flex;
+    
+    
+}
+.card img{
+    width: 28%;
+}
+
+.card{
+    width: 30%;
+    margin: 40px;
+    height: 300px;
+    
+    padding: 10px;
+    border-radius: 14px;
+}
+.card-title{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+    
+}
+#bg-mission{
+    background-color: rgb(174, 166, 223);
+}
+#bg-vission{
+    background-color: rgb(146, 228, 157);
+}#bg-goal{
+    background-color: rgb(190, 163, 121);
+}
+.developer-inpo{
+    display: flex;
+    margin: 120px;
+    padding: 30px;
+    background-image: url(image/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    
+}
+
+.project-demo{
+    display: flex;
+    width: 90%;
+    padding: 30px;
+    margin-right: 300px;
+    margin: 120px;
+ 
+}
+.project-descrip{
+    margin-right: 220px;
+}
+.regi-info{
+    
+    width: 90%;
+    border-radius: 7px;
+    background-color: rgb(144, 199, 201);
+    margin: 120px;
+}
+.regi{
+    margin-left: 25%;
+    
+}
+
+.regi h1{
+    margin-left: 0%;
+    text-transform: uppercase;
+    font-size: 40px;
+    color: white;
+
+    
+}
+.regi p{
+    font-size: 20px;
+    margin: 0px 0;
+}
+.regi input{
+    font-size: 13px;
+    padding: 10px 10px;
+    width: 400px;
+    border: 0;
+    border-radius: 5px;
+    outline: none;
+}
+.regi button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 10px 15px;
+    border-radius: 5px;
+
+}
+
+.footer-info{ 
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 6px 20px;
+}
+#text-color{
+    color: rgb(236, 141, 124);
+}
+
+
+
+  
